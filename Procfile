@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT obs_event_logger_2228.wsgi:application
